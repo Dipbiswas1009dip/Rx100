@@ -1,0 +1,22 @@
+{
+  "name": "rtx-md-wa-bot",
+  "version": "1.0.0",
+  "description": "THIS IS A RTX-MD BOT",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "dip",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.17",
+    "chalk": "^4.1.2",
+    "chatgpt": "^5.2.5",
+    "dotenv": "^16.4.7",
+    "jimp": "^0.16.13",
+    "openai": "^4.90.0",
+    "pino": "^9.6.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
